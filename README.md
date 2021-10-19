@@ -19,4 +19,5 @@ var C = gets();
 var D = gets();
 
 var DIFERENCA = (A * B - C * D);
+
 console.log("DIFERENCA = " + DIFERENCA
